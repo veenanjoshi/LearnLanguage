@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CategoryStyle">
+        <item name="android:textColor">@color/categoryTextColor</item>
+        <item name="android:background">@color/categoryBgColor</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/category_left_padding</item>
+    </style>
+
 </resources>
